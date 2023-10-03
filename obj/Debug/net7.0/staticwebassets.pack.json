@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\bootCamp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\bootCamp.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\testeFinalBootcapmpo\\bootCamp\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.bootCamp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.bootCamp.props",
+      "PackagePath": "build\\bootCamp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.bootCamp.props",
+      "PackagePath": "buildMultiTargeting\\bootCamp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.bootCamp.props",
+      "PackagePath": "buildTransitive\\bootCamp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "P2+98DsXyaxF4KKp7c/dO8xq0WT1IElM4uRfZ0Ox+zI=",
+  "Source": "bootCamp",
+  "BasePath": "_content/bootCamp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "bootCamp\\wwwroot",
+      "Source": "bootCamp",
+      "ContentRoot": "D:\\testeFinalBootcapmpo\\bootCamp\\wwwroot\\",
+      "BasePath": "_content/bootCamp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\bootCamp.styles.css",
+      "SourceId": "bootCamp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/bootCamp",
+      "RelativePath": "bootCamp.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\bundle\\bootCamp.styles.css"
+    },
+    {
+      "Identity": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\bootCamp.bundle.scp.css",
+      "SourceId": "bootCamp",
+      "SourceType": "Computed",
+      "ContentRoot": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/bootCamp",
+      "RelativePath": "bootCamp.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\testeFinalBootcapmpo\\bootCamp\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\bootCamp.bundle.scp.css"
+    },
+    {
+      "Identity": "D:\\testeFinalBootcapmpo\\bootCamp\\wwwroot\\css\\style.css",
+      "SourceId": "bootCamp",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\testeFinalBootcapmpo\\bootCamp\\wwwroot\\",
+      "BasePath": "_content/bootCamp",
+      "RelativePath": "css/style.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\style.css"
+    }
+  ]
+}

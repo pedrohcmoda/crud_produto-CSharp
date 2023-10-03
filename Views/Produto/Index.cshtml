@@ -1,0 +1,35 @@
+@model List<BootCamp.Models.Produto>
+    
+<a asp-controller="Produto" asp-action="Adicionar">Adicionar Produto</a>
+
+<head>
+    <link rel="stylesheet" href="~/css/style.css" />
+</head>
+
+<h2>Lista de Produtos</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>ID</th>
+            <th>Nome</th>
+            <th>Preço</th>
+            <th>Ações</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var produto in Model)
+        {
+            <tr>
+                <td>@produto.ID</td>
+                <td>@produto.Nome</td>
+                <td>@produto.Preco</td>
+                <td>
+                    <a asp-action="Editar" asp-route-id="@produto.ID">Editar</a> |
+                    <a asp-action="Excluir" asp-route-id="@produto.ID">Excluir</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
