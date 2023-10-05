@@ -15,7 +15,7 @@ Certifique-se de que você tenha o seguinte software instalado:
 3. Na linha de comando execute a aplicação com
     dotnet run
 
-4. Após isso o terminal disponibilizara o 
+4. Após isso o terminal disponibilizara o link
 
 ## Funcionalidades
 
